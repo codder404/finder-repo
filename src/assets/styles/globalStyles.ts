@@ -8,11 +8,11 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
 
-  /* body {
+  body {
     background: ${props => props.theme.colors.background} url(${props =>
   props.theme.colors.ImageBackground}) no-repeat 70% top;
     -webkit-font-smoothing: antialiased;
-  } */
+  }
 
   body, input, button {
     font: 16px Roboto, sans-serif;
