@@ -1,4 +1,3 @@
-import { type } from 'os';
 import { useState, useEffect, Dispatch, SetStateAction } from 'react';
 
 type ResponseDTO<S> = [S, Dispatch<SetStateAction<S>>];
