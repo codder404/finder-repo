@@ -1,4 +1,4 @@
-import githubBackgroundDay from '../../images/githubBackgroundDay.svg';
+import githubBackgroundDay from '../../images/background-white.svg';
 
 export default {
   title: 'light',
