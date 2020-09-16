@@ -1,4 +1,4 @@
-import githubBackgroundNight from '../../images/background_white.svg';
+import githubBackgroundNight from '../../images/background-white.svg';
 
 export default {
   title: 'dark',
